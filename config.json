@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "VERUS FARM",
-            "url": "stratum+tcp://pool.tazmining.ch:7180",
+            "url": "stratum+tcp://na.luckpool.net:3960",
             "timeout": 180,
             "disabled": 0
         },
